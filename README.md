@@ -11,7 +11,7 @@ II. Quá trình hoàn thiện bài thực hành :
 
   - Giao diện sử dụng Bootstrap 4 
   - Cấu hình project sử dụng ide Spring Tool Suite 4 
-  - Cơ sở dữ liệu sử dụng Mysql 
+  - Cơ sở dữ liệu sử dụng Postgresql
   - Sử dụng ORM - Spring data jpa truy vấn dữ liệu trong database
 
 2, Code thực thể và các Service Layer trong project - Người thực hiện : Minh Quân
