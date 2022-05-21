@@ -1,4 +1,4 @@
-package vn.trinhtung;
+package vn.th2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
