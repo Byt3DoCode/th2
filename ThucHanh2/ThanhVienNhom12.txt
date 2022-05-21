@@ -1,0 +1,3 @@
+Phạm Anh Khiêm làm phần get all products và tạo product.
+Minh Quân làm phần edit product.
+Lê Quốc Trị làm delete product và validate
