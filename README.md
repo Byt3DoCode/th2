@@ -1,7 +1,7 @@
 # TH2 - Nhom12
 I. Các thành viên trong nhóm :
 
-    Phạm Anh Khiêm - B19DCCN
+    Phạm Anh Khiêm - B18DCCN314
     Minh Quân - B18DCAT192
     Lê Quốc Trị - B19DCCN690
 
