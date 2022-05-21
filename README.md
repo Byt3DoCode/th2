@@ -28,4 +28,4 @@ II. Quá trình hoàn thiện bài thực hành :
   
   - Hoàn thiện bài thực hành :
     + Fix các lỗi sót trong bài thực hành
-    + Đẩy code lên github 
+    + Đẩy code lên github.
