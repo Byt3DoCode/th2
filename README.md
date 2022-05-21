@@ -19,7 +19,7 @@ II. Quá trình hoàn thiện bài thực hành :
   - Code thực thể Product : Sử dụgn Spring data jpa để ánh xạ thực thể với database
   - Code Service layer : Sử dụng Spring data Jpa để code các chức năng dịch vụ thao tác với dữ liệu CRUD (Thêm, Đọc, Sửa, Xóa)
 
-3, Code Controller layer và hoàn thiện bài thực hành :
+3, Code Controller layer và hoàn thiện bài thực hành - Người thực hiện : Lê Quôc Trị
 
   - Code Controller Layer : 
     + Sử dụng các mapping URL trong spring để ánh xạ xác đường dẫn (@RequestMapping, @GetMapping, @PostMapping)
